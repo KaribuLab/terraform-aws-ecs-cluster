@@ -48,6 +48,7 @@ module "ecs_cluster" {
 |--------|-------------|
 | cluster_id | ID del clúster ECS |
 | cluster_arn | ARN del clúster ECS |
+| cluster_name | Nombre del clúster ECS |
 
 ## Ejemplos
 
